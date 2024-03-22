@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.slide {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+
+.blocHorizontal {
+  display: flex;
+  flex-direction: row;
+  width: 400vw;
+}
+
+.one {
+  background-color: aqua;
+}
+
+.two {
+  background-color: aquamarine;
+}
+
+.three {
+  background-color: azure;
+}
+
+.fout {
+  background-color: bisque;
+}
+/* .parent {
+  display: flex;
+  flex-direction: row;
+  background-color: coral;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.c {
+  overflow: hidden;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+} */
