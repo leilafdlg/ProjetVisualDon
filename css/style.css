@@ -1,8 +1,54 @@
-body {
+/* Reset de base pour les marges et le padding */
+* {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  box-sizing: border-box;
 }
+
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: #FFA7A7; /* Fond rose */
+  overflow-x: scroll; /* Active le défilement horizontal */
+  overflow-y: hidden; /* Désactive le défilement vertical */
+}
+
+/* Styles pour les couleurs spécifiées, à utiliser comme classes */
+.color-5C98BA { background-color: #5C98BA; }
+.color-676091 { background-color: #676091; }
+.color-AB529D { background-color: #AB529D; }
+.color-FF4895 { background-color: #FF4895; }
+.color-E4004D { background-color: #E4004D; }
+.color-DF7272 { background-color: #DF7272; }
+.color-FFA7A7 { background-color: #FFA7A7; }
+
+/* Exemple d'utilisation des couleurs sur les éléments de contenu */
+/*) .content-item:nth-child(1) { background-color: #5C98BA; }*/
+
+
+.horizontal-scroll-container {
+  display: flex; /* Utilisation de Flexbox pour aligner horizontalement */
+  height: 100%;
+  width: max-content; /* Assure que le conteneur s'étend à la largeur de tous ses enfants */
+}
+
+.content-item {
+  flex: 0 0 auto; /* Empêche les éléments de rétrécir ou de grandir */
+  width: 100vw; /* Chaque élément a la largeur de la fenêtre */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Ajouter des couleurs de fond différentes pour chaque élément si désiré */
+}
+
+
+.popup { display: none; }
+.icon:hover + .popup { display: block; }
+
 
 .slide {
   width: 100vw;
@@ -20,19 +66,19 @@ body {
 }
 
 .one {
-  background-color: aqua;
+  background-color: rgba(255, 242, 242, 1);
 }
 
 .two {
-  background-color: aquamarine;
+  background-color: #5C98BA;
 }
 
 .three {
-  background-color: azure;
+  background-color: #676091
 }
 
-.fout {
-  background-color: bisque;
+.four {
+  background-color: #AB529D;
 }
 /* .parent {
   display: flex;
