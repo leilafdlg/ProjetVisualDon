@@ -1,0 +1,443 @@
+{
+    "Cœur_Fleche":[
+     {
+      "assets": "00.Coeur_A.svg"
+     },
+     {
+      "assets": "00.Coeur_B.svg"
+     },
+     {
+      "assets": "00.Coeur_C.svg"
+     },
+     {
+      "assets": "00.Rectangle.svg"
+     },
+     {
+      "assets": "01.FlecheBleu.svg"
+     },
+     {
+      "assets": "02.FlecheViolet.svg"
+     },
+     {
+      "assets": "03.FlecheLilas.svg"
+     },
+     {
+      "assets": "04.FlecheRose.svg"
+     },
+     {
+      "assets": "05.FlecheRouge.svg"
+     }
+    ],
+    "Temporalité":[
+     {
+      " titre": "Cupidon",
+      "sous-titre": "Dieu grec de l’amour",
+      " descripiton popup": "Salut! Je m'appelle Cupidon.\n\nOn me connaît aussi sous le nom d'Éros dans la mythologie grecque. Je suis le dieu de l'amour et du désir. Ma mère est Vénus, la déesse de la beauté et mon père Eros, dieu de la passion. Vous me reconnaîtrez facilement grâce à mes ailes d'ange et à mon arc. \n\nMalgré mon jeune âge apparent, je possède un pouvoir immense : celui de connecter les cœurs et de susciter les passions. Je passe mes journées à voler dans le ciel et à tirer des flèches magiques qui font tomber les gens amoureux. \n\nEspiègle, certaines de mes flèches provoquent un amour passionné et irrésistible, tandis que d'autres peuvent conduire à un amour non partagé. \n\nLa prochaine fois que vous ressentez une étincelle inattendue ou que votre cœur bat plus fort pour quelqu'un, pensez à moi. L'amour est aussi mystérieux qu'il est puissant. \n\nBelles découvertes à vous !",
+      " siècle": "8ème siècle avant J.-C.",
+      "image-statique": "01_Cupidon.png",
+      "icon ": "01_CupidonIcon.svg"
+     },
+     {
+      " titre": "Les Lupercales",
+      "sous-titre": "fête romaine de fertilité",
+      " descripiton popup": "Lupercalia était une fête ancienne romaine, célébrée du 13 au 15 février, entourée de rites sur la fertilité, la purification et la santé. Au cœur de ces célébrations, les hommes se livraient à des actes rituels pour le moins étonnants : ils se déshabillaient, sacrifiaient un mouton ou un chien, puis s'enveloppaient dans les peaux des animaux sacrifiés. Ils croyaient que ce rituel leur apporterait fertilité et santé, une croyance qui les poussait ensuite à fouetter les jeunes femmes avec des lanières de peau dans l'espoir d'accroître leur fécondité et de les purifier de tout mal.\n\nLe volet le plus curieux et peut-être le plus mémorable de Lupercalia était sa loterie de l'amour, sorte de match de l’époque. Les jeunes femmes de la ville mettaient leur nom dans une grande urne, et les célibataires masculins tiraient au sort un nom pour déterminer leur compagne pour l'année, un rituel qui menait souvent au mariage. Ainsi, la fête était non seulement une occasion de purifier la ville et ses citoyens, mais aussi un moyen de forger de nouvelles unions et de célébrer l'amour et la communauté.",
+      " siècle": "6ème siècle avant J.-C.",
+      " date": "13 au 15 février",
+      "image-statique": "02_Lupercales_A.png",
+      "image-hover": "02_Lupercales_B.png",
+      "icon ": "02_LupercalesIcon.svg"
+     },
+     {
+      " titre": "Valentin",
+      "sous-titre": "prêtre romantique",
+      " descripiton popup": "Il est devenu symbole de l'amour pour avoir marié des couples contre l'ordre impérial de l'empereur Claude le Cruel qui était convaincu que les célibataires constituaient des soldats plus endurcis et plus dévoués. On raconte que les mariages qu'il avait célébrés étaient bénis, empreints d'une aura de bonheur et d'amour durable.\n\nValentin était également un jardinier passionné. Dans le jardin de son monastère, il cultivait des fleurs qu'il offrait aux couples passant à proximité. C'était sa manière d'encourager et de célébrer l'amour véritable, faisant de lui une figure emblématique de l'amour et de la générosité.\n\nAvant d'être mis à mort, il aurait rendu la vue à la fille de son geôlier. Il lui laissa une note d'adieu signée “De ton Valentin”, une expression qui traversa les siècles et inspira la tradition des messages et cadeaux échangés lors de la Saint-Valentin.\n\nLe 14 février, jour de son exécution fut choisi par l'Église pour honorer ce martyr qui avait sacrifié sa vie par amour pour les autres. Depuis, chaque année le monde célèbre l'amour en souvenir de la passion de Valentin.",
+      " siècle": "269 après J.-C.",
+      " date": "14 février 269",
+      "image-statique": "03_Valentin.png"
+     },
+     {
+      " titre": "Saison des amours des oiseaux",
+      "sous-titre": "oiseaux d’Europe",
+      " descripiton popup": "Au Moyen Âge, la mi-février était associée à la romance, inspirée par le début de la saison des amours chez les oiseaux. \n\nDes espèces telles que les mésanges, les merles, les rouge-gorges, les pigeons et les hirondelles commençaient leurs rituels de cour, montrant des comportements de parade nuptiale par la danse et le chant.\n\nCette période était considérée comme idéale pour l'expression de l'amour, reflétant la croyance populaire que les oiseaux choisissaient leurs partenaires à ce moment-là. \n\nCette croyance du Moyen Âge a créé un lien durable entre la nature, la littérature et l'amour, influençant les célébrations de la Saint-Valentin jusqu'à nos jours.",
+      " siècle": "au moyen âge",
+      " date": "vers 1301",
+      "image-statique": "04_Oiseaux_A.png",
+      "image-hover": "04_Oiseaux_B.png",
+      "icon ": "04_OiseauxIcon.svg"
+     },
+     {
+      " titre": "Poésie",
+      "sous-titre": "Les premiers poèmes de St-Valentin",
+      " descripiton popup": "Le poète Geoffrey Chaucer fut la première personne à associer la Saint-Valentin au romantisme dans son poème The Parlement of Foules de 1375.",
+      " siècle": "14ème siècle",
+      " date": 1375,
+      "image-statique": "05_Poete_1.png"
+     },
+     {
+      " titre": "L'amour du duc d'Orléans",
+      " descripiton popup": "Le plus ancien poème de Saint-Valentin a été écrit par Charles, duc d'Orléans, à sa femme alors qu'il fut emprisonné dans la Tour de Londres après sa capture à la bataille d'Azincourt.",
+      " siècle": "15ème siècle",
+      " date": 1415,
+      "image-statique": "06_Poete_2.png"
+     },
+     {
+      " titre": "Premières douceurs",
+      "sous-titre": "pétales de rose confites",
+      " descripiton popup": "Les premiers bonbons associés spécifiquement à la Saint-Valentin remontent au 15ème siècle, tels que des dattes fourrées à la pâte d'amande, des pastilles de miel aromatisées aux épices ou encore des pétales de rose confites. À cette époque, l'échange de douceurs était déjà une tradition pour exprimer l'affection et l'amour, mais ces \"bonbons\" n'étaient pas nécessairement des confiseries au sens moderne.",
+      " siècle": "16ème siècle",
+      " date": "vers 15H00",
+      "image-statique": "07_PetaleRose_A.png",
+      "image-hover": "07_PetaleRose_B.png",
+      "icon ": "07_PetaleRoseIcon.svg"
+     },
+     {
+      " titre": "Shakespeare",
+      "sous-titre": "Othello",
+      " descripiton popup": "Shakespeare mentionne la Saint-Valentin dans son œuvre Othello.",
+      " siècle": "17ème siècle",
+      " date": 1601,
+      "image-statique": "08_Othello.png"
+     },
+     {
+      " titre": "Cartes romantiques",
+      "sous-titre": "la plus vieille carte",
+      " descripiton popup": "En Angleterre, l'échange de cartes de Saint-Valentin devient une pratique courante et commence à ressembler aux cartes modernes.",
+      " siècle": " 18ème siècle",
+      " date": 1797,
+      "image-statique": "09_VieilleCarte_A.png",
+      "image-hover": "09_VieilleCarte_B.png",
+      "icon ": "09_VieilleCarteIcon.svg"
+     },
+     {
+      " titre": "Floriographie",
+      "sous-titre": "le langage des fleurs",
+      " descripiton popup": "Très répandue en Asie et au Moyen Orient, la floriographie devient populaire en Europe. On commença à composer des bouquets avec soin pour transmettre des messages codés. Un bouquet composé d'acacia jaune, de jonquilles et de perce-neige signifiait un amour caché, un désir de réciprocité et de l'espoir. ",
+      " siècle": "19ème siècle",
+      " date": "vers 1800",
+      "image-statique": "10_Floriographie_A.png",
+      "image-hover": "10_Floriographie_B.png",
+      "icon ": "10_FloriographieIcon.svg"
+     },
+     {
+      " titre": "Guides d'écriture",
+      "sous-titre": "rédaction de versets pour leur bien-aimé,- e",
+      " descripiton popup": "Le \"Young Man’s Valentine Writer\" était un livre publié au début du 19e siècle, conçu pour aider les jeunes hommes à composer des lettres d'amour et des valentines pour les femmes qu'ils courtisaient. Ils contenaient des échantillons de poésie romantique, des déclarations d'amour et des formules pour écrire des lettres amoureuses. \n Les femmes avaient également le droit au \"Ladies' Valentine Writer\" qui les aideaient à rédiger également des lettres d'amour. À cette époque, les valentines étaient des messages souvent ornés et parfois anonymes.",
+      " siècle": "19ème siècle",
+      " date": 1820,
+      "image-statique": "11_GuideEcriture.png"
+     },
+     {
+      " titre": "Esther",
+      " descripiton popup": "Esther A. Howland commence à vendre les premières cartes de Saint-Valentin de masse aux États-Unis.",
+      " siècle": "19ème siècle",
+      " date": 1840,
+      "image-statique": "12_EstherHowland.png"
+     },
+     {
+      " titre": "Chocolat 1",
+      " descripiton popup": "Les chocolatiers commencent à commercialiser des boîtes de chocolats spéciales pour la St-Valentin. ",
+      " siècle": "19ème siècle",
+      " date": 1860,
+      "image-statique": "12_BoiteChoco_A.png",
+      "image-hover": "12_BoiteChoco_B.png",
+      "icon ": "12_BoiteChocoIcon.svg"
+     },
+     {
+      " titre": "Chocolat 2",
+      " descripiton popup": "A l’époque ce n’était pas répondu car c’était aossicé aux classes aisées en raison du coût élevé",
+      " siècle": "19ème siècle",
+      " date": 1860
+     },
+     {
+      " titre": "Les Bonbons",
+      "sous-titre": "conversation hearts",
+      " descripiton popup": "Les bonbons Sweethearts, aussi connus sous le nom de « conversation hearts » aux États-Unis, ont été crées en 1866 lorsque Daniel Chase  inventa une machine capable de presser des messages alimentaires sur les bonbons. La méthode consistait à graver des mots avec une matrice de type presse, permettant d'imprimer des messages sur des petites formes de bonbons. AUjourd'hui, les Sweethearts restent un symbole emblématique de l'amour et de la Saint-Valentin aux États-Unis.",
+      " siècle": "19ème siècle",
+      " date": 1866,
+      "image-statique": "13_BonbonSweethearts.png"
+     },
+     {
+      " descripiton popup": "La célébration de la Saint-Valentin se répand en Angleterre et en France où les couples expriment leur amour par des fleurs, des bonbons et des cartes.",
+      " siècle": "19ème siècle"
+     },
+     {
+      " titre": "Asset Collombe",
+      "image-statique": "14_Collombe.png"
+     },
+     {
+      " titre": "Cartes postales",
+      "sous-titre": "production de masse",
+      " descripiton popup": "C'est au 19e siècle que l'envoi de cartes de Saint-Valentin est devenu particulièrement populaire en Angleterre et aux États-Unis. Cela a été grandement facilité par l'amélioration des systèmes postaux et l'introduction du timbre-poste, qui a rendu l'envoi de lettres et de cartes beaucoup plus accessible. Les premières cartes étaient souvent ornées de dentelles, de rubans et de motifs floraux romantiques.",
+      " siècle": "20ème siècle",
+      " date": "~1900",
+      "image-statique": "15_CartePostale.png"
+     },
+     {
+      " titre": "Le Baiser",
+      "sous-titre": "Gustav Klimt",
+      " descripiton popup": "“Le Baiser” de Gustav Klimt est considérée comme l'un des chefs-d'œuvre de la période dorée de l'artiste. Symbole de l'Art nouveau, ce tableau représente un couple en étreinte, enveloppé dans des robes ornées de motifs . La femme est agenouillée et incline la tête pour recevoir le baiser de l'homme, qui la tient tendrement. L'usage de l'or et des motifs décoratifs, ainsi que le traitement sensuel et intime du couple, font de \"Le Baiser\" une icône de l'amour romantique et de la passion.",
+      " siècle": "20ème siècle",
+      " date": 1907,
+      "image-statique": "16_PeintureLeBaiser_A.png",
+      "image-hover": "16_PeintureLeBaiser_B.png",
+      "icon ": "16_PeintureLeBaiserIcon.svg"
+     },
+     {
+      " titre": "Publicité rétro",
+      "sous-titre": "Coca-Cola",
+      " descripiton popup": "Dans les années 60, les publicités commerciales pour la Saint-Valentin reflétaient les normes sociales et les tendances de l'époque. L'accent était souvent mis sur le romantisme traditionnel, et les cadeaux typiques incluaient des chocolats, des bijoux, des parfums et des cartes de Saint-Valentin.",
+      " siècle": "20ème siècle",
+      " date": 1959,
+      "image-statique": "17_PubCoca.png"
+     },
+     {
+      " titre": " Rock'n'Roll",
+      "sous-titre": "amour et juke-box",
+      " descripiton popup": " Les jeunes couples se rendent dans des diners pour écouter des juke-box et échanger des cadeaux et cartes inspirés par les stars de la musique de l'époque.",
+      " siècle": "20ème siècle",
+      " date": 1960,
+      "image-statique": "18_Rock_A.png",
+      "image-hover": "18_Rock_B.png",
+      "icon ": "18_RockIcon.svg"
+     },
+     {
+      " titre": "Amour libre",
+      "sous-titre": "génération hippie",
+      " descripiton popup": "Durant les années 60-70, la Saint-Valentin se colore de l'esprit de la contreculture. Les jeunes amoureux célèbrent la fête dans un esprit de liberté, offrant des fleurs non conventionnelles et des cadeaux faits main, symbolisant la paix et l'amour universels. Les hippies faisaient la promotion de l'amour libre et de l'harmonie avec la nature, privilégiant les rassemblements collectifs et les fêtes en plein",
+      " siècle": "20ème siècle",
+      " date": 1965,
+      "image-statique": "19_Hippie_A.png",
+      "image-hover": "19_Hippie_B.png",
+      "icon ": "19_HippieIcon.svg"
+     },
+     {
+      " titre": "Obsession",
+      "sous-titre": "Parfum",
+      " descripiton popup": "Le parfum \"Obsession\" d’une marque de luxe représente la sensualité et l’audace alors que la société s'ouvre davantage aux questions de sexualité et de relations. Il défie les rôles de genre traditionnels en ciblant hommes et femmes. Avec ses notes distinctives, épicées et orientales, il s'éloignent des fragrances florales légères prévalantes auparavant. Un  exemple de parfum qui reflète les changements sociétaux, culturels et commerciaux qui se sont produits dans les années 80.",
+      " siècle": "20ème siècle",
+      " date": 1985,
+      "image-statique": "20_Parfum_A.png",
+      "image-hover": "20_Parfum_B.png",
+      "icon ": "20_ParfumIcon.svg"
+     },
+     {
+      " titre": "Amour digital",
+      "sous-titre": "début d’internet",
+      " descripiton popup": "Avec Internet, c’est le début de la romance numérique. On commence à envoyer des e-cards et à utiliser des services de rencontre en ligne pour trouver ou célébrer son valentin ou sa valentine.",
+      " siècle": "20ème siècle",
+      " date": 1993,
+      "image-statique": "21_AmourDigital_A.png",
+      "image-hover": "21_AmourDigital_B.png",
+      "icon ": "21_AmourDigitalIcon.svg"
+     },
+     {
+      " titre": "match",
+      "sous-titre": "site de rencontre",
+      " descripiton popup": "Match.com révolutionna les rencontres amoureuses en devenant le premier site de rencontres en ligne, offrant ainsi une nouvelle façon de trouver l'amour.",
+      " siècle": "20ème siècle",
+      " date": 1993,
+      "image-statique": "22_Match_A.png",
+      "image-hover": "22_Match_B.png",
+      "icon ": "22_MatchIcon.svg"
+     },
+     {
+      " titre": "e-mail",
+      "sous-titre": "You’ve Got Mail",
+      " descripiton popup": "Match.com révolutionna les rencontres amoureuses en devenant le premier site de rencontres en ligne, offrant ainsi une nouvelle façon de trouver l'amour.",
+      " siècle": "20ème siècle",
+      " date": 1998,
+      "image-statique": "23_Email_A.png",
+      "image-hover": "23_Email_B.png",
+      "icon ": "23_EmailIcon.svg"
+     },
+     {
+      " titre": "MSN",
+      "sous-titre": "messages",
+      " descripiton popup": "Autour de la Saint-Valentin, il n'était pas rare que les gens utilisent MSN Messenger pour envoyer des messages d'amour, des poèmes ou des invitations à des rendez-vous. Les gens commençaient tout juste à explorer les possibilités de la romance en ligne",
+      " siècle": "20ème siècle",
+      " date": 1999,
+      "image-statique": "24_MSN_A.png",
+      "image-hover": "24_MSN_B.png",
+      "icon ": "24_MSNIcon.svg"
+     },
+     {
+      " titre": "Nouvel An Chinois",
+      "sous-titre": "14-Feb-00",
+      " descripiton popup": "En 2000, la Saint-Valentin coïncidait avec le Nouvel An chinois, connu sous le nom de Fête du Printemps est le festival le plus important pour les communautés chinoises du monde entier. Cette coïncidence a donné lieu à des célébrations uniques et mixtes dans plusieurs parties du monde. Les traditions de la fête de l'amour se sont fusionnées avec l'année du Dragon, considéré comme le signe le plus chanceux joutant une couche supplémentaire de signification et d'enthousiasme aux festivités.",
+      " siècle": "21ème siècle",
+      " date": 2000,
+      "image-statique": "25_Nouvelan_A.png",
+      "image-hover": "25_Nouvelan_B.png",
+      "icon ": "25_NouvelanIcon.svg"
+     },
+     {
+      " titre": "Record des baisers ",
+      "sous-titre": "39’897 personnes",
+      " descripiton popup": "Le 14 février 2009 à Mexico, 39 897 personnes se sont rassemblées sur la célèbre place principale à Zócalo pour battre le record mondial du plus grand nombre de personnes s'embrassant simultanément. L'événement surnommé \"Besame Mucho\" a vu des participants de tous âges et de toutes origines partager un moment de solidarité et d'affection.",
+      " siècle": "21ème siècle",
+      " date": 2009,
+      "image-statique": "26_RecordBaiser_A.png",
+      "image-hover": "26_RecordBaiser_B.png",
+      "icon ": "26_RecordBaiserIcon.svg"
+     },
+     {
+      " titre": "Swipe",
+      "sous-titre": "Tinder",
+      " descripiton popup": "Tinder introduit le concept de \"swipe\" : les utilisateurs glissent vers la droite pour \"aimer\" ou vers la gauche pour \"passer\" sur les profils, une approche qui rend la sélection des partenaires à la fois rapide et intuitive. Aujdourd’hui, plus de 1,6 milliard de swipes sont effectués sur Tinder chaque jour.  Pendant la saint-valentin, il y a 10% de matchs en plus et les swipes à droite augmentent de 30 millions à l'échelle mondiale",
+      " siècle": "21ème siècle",
+      " date": 2012,
+      "image-statique": "27_Tinder_A.png",
+      "image-hover": "27_Tinder_B.png",
+      "icon ": "27_TinderIcon.svg"
+     },
+     {
+      " titre": "Snap Map",
+      "sous-titre": "autocollants et filtres",
+      " descripiton popup": "En 2018 la Snap Map s'est parée de couleurs festives avec des bateaux cygnes, des arbres en forme de cœur et d'autres décorations amoureuses. Les Actionmojis affichent également des activités spéciales pour l'occasion et de nouveaux stickers et filtres animés ont été mis à disposition. En 2021, SnapChat a intégré un nouveau Snap Mini via l'application Givingli, permettant de créer et d'envoyer des cadeaux virtuels. Une gamme de lentilles AR sur le thème de la Saint-Valentin était disponible intégrant des avatars Bitmoji.",
+      " siècle": "21ème siècle",
+      " date": 2018,
+      "image-statique": "28_SnapMap_A.png",
+      "image-hover": "28_SnapMap_B.png",
+      "icon ": "28_SnapMapIcon.svg"
+     },
+     {
+      " titre": "Google Trends",
+      "sous-titre": "What is love?",
+      " descripiton popup": "\"Qu'est-ce que l'amour?\" » est la question la plus sur l'amour à l'approche du 14 février 2024. Parmi les autres résultat de recherche sucrés nous avons “les fraises enrobées de chocolat” et la tendance “sucette DIY pour la Saint-Valentin”. Côté cadeaux, “les meilleurs petits cadeaux de la Saint-Valentin pour elle” et “gros ours en peluche”.",
+      " siècle": "21ème siècle",
+      " date": 2024,
+      "image-statique": "29_GoogleTrends_A.png",
+      "image-hover": "29_GoogleTrends_B.png",
+      "icon ": "29_GoogleTrendsIcon.svg"
+     },
+     {
+      " titre": "Playlist",
+      "sous-titre": "Top 10",
+      " descripiton popup": " des chansons les plus écoutées à la st valentin",
+      "image-statique": "30_Playlist.png",
+      "icon ": "30_PlaylistIcon.svg",
+      "link ": "https://open.spotify.com/playlist/4S4avqKGYuM5PCMkWSknJZ?si=4917c34a36324b45&nd=1&dlsi=4e78754632db4877"
+     },
+     {
+      "image-statique": "31_Fleurs_A.png",
+      "image-hover": "31_Fleurs_B.png",
+      "icon ": "31_FleursIcon.svg"
+     },
+     {
+      "image-statique": "32_Chien_A.png",
+      "image-hover": "32_Chien_B.png",
+      "icon ": "32_ChienIcon.svg"
+     },
+     {
+      "image-statique": "33_Cartes_A.png",
+      "image-hover": "33_Cartes_B.png",
+      "icon ": "33_CartesIcon.svg"
+     },
+     {
+      "image-statique": "34_Bonbons_A.png",
+      "image-hover": "34_Bonbons_B.png",
+      "icon ": "34_BonbonsIcon.svg"
+     },
+     {
+      "image-statique": "35_Bague_A.png",
+      "image-hover": "35_Bague_B.png",
+      "icon ": "35_BagueIcon.svg"
+     },
+     {
+      "icon ": "36_CartesIcon.svg"
+     }
+    ],
+    "Playlist":[
+     {
+      " titre": "Perfect",
+      "artist": "Ed Sheeran"
+     },
+     {
+      " titre": "All of Me",
+      "artist": "John Legend"
+     },
+     {
+      " titre": "Say You Won't Let Go",
+      "artist": "Jame Arthur"
+     },
+     {
+      " titre": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys"
+     },
+     {
+      " titre": "Thinking out Loud",
+      "artist": "Ed Sheeran"
+     },
+     {
+      " titre": "Right Here Waiting",
+      "artist": "Richard Marx"
+     },
+     {
+      " titre": "I Will Always Love You",
+      "artist": "Whitney Houston"
+     },
+     {
+      " titre": "I Want To Know What Love Is",
+      "artist": "Foreigner"
+     },
+     {
+      " titre": "Glory Of Love",
+      "artist": "Peter Cetera"
+     },
+     {
+      " titre": "Dandelions",
+      "artist": "Ruth B."
+     }
+    ],
+    "Facts":[
+     {
+      " titre": "fact1",
+      "sous-titre": "2ème",
+      "description": "jour de l’année où le plus de cartes sont offertes, après Noël "
+     },
+     {
+      " titre": "fact2",
+      "sous-titre": "XX millions",
+      "description": "de roses sont produites dans le monde par année pour la Saint-Valentin."
+     },
+     {
+      " titre": "fact3",
+      "sous-titre": "9 millions",
+      "description": "de personnes achètent un cadeau à leur animal de compagnie "
+     }
+    ],
+    "Map":[
+     {
+      "country": " Italie",
+      "fact": " les couples posent des cadenas d'amour sur les parapets des ponts le jour de la Saint-Valentin. Les cadenas sont marqués d'un nom et la clé est ensuite jetée dans l'eau. L'amour est ainsi censé durer éternellement.\nUne autre tradition italienne encourageait les jeunes filles célibataires à se réveiller tôt : on disait que le premier homme aperçu avant l’aube deviendrait leur mari dans l’année.\nL’Italie célèbre désormais la Saint-Valentin de manière plus moderne. Les couples planifient des dîners romantiques et s’offrent presque toujours des cadeaux Baci Perugina, un bonbon italien à base de noisettes enrobées de chocolat. L’emballage des bonbons contient même une citation romantique en quatre langues différentes\n"
+     },
+     {
+      "country": " Philippines",
+      "fact": " Des milliers de couples se rejoignent aux abords de la baie de Manille et, à minuit, tous ces couples s’embrassent et gardent les lèvres jointes pendant plusieurs secondes. » Aux Philippines, la Saint-Valentin est également l’occasion pour beaucoup de couples de se marier gratuitement en profitant des « mariages de masse » organisés par certaines églises et divers organismes gouvernementaux."
+     },
+     {
+      "country": " Argentine",
+      "fact": " pour les Argentins, cette journée spéciale de février n’est que le précurseur d’une célébration bien plus longue, connue sous le nom de « Semaine de la douceur« . La Semaine de la douceur, qui n’est née qu’en 1989, a lieu en juillet.\nPendant la Semaine de la douceur, les amis et les amoureux échangent des baisers et des bonbons. Les festivités se terminent par le «jour de l’amitié», lorsque les relations amicales de toutes sortes sont célébrées et appréciées.\n"
+     },
+     {
+      "country": " Danemark",
+      "fact": " les jeunes Danois offrent des fleurs printanières appelées perce-neige avec des notes anonymes appelées « gaekkebrev. » Si leur destinataire devine correctement qui a envoyé la note, ils reçoivent un œuf de Pâques en bonbon à la fête de Pâques."
+     },
+     {
+      "country": " Afrique du Sud",
+      "fact": "À ce jour, les femmes d’Afrique du Sud suivent toujours cette ancienne tradition romaine de Lupercalia qui a tout déclenché.\nÀ l’occasion de la Lupercalia, de nombreuses femmes sud-africaines se munissent d’un stylo et de papier, pour écrire le nom de la personne qui les intéresse et l’épingler à leur manche. Bien plus direct qu’une lettre d’amour!\n"
+     },
+     {
+      "country": "Suède",
+      "fact": "la Saint-Valentin est appelée «le jour de tous les cœurs» et on y offre traditionnellement des cœurs rouges en gomme au vin. "
+     },
+     {
+      "country": "Finlande",
+      "fact": "le 14 février est délibérément fêté comme la journée de l'amitié. Comme nous l'avons dit, l'amour a de multiples facettes."
+     },
+     {
+      "country": "Japon",
+      "fact": "Alors que dans les pays occidentaux, les cadeaux sont plutôt offerts par les hommes, au Japon, ce sont surtout les femmes qui offrent des cadeaux à leurs proches. Traditionnellement, on y offre du chocolat noir aux partenaires, mais aussi aux amis, à la famille et aux collègues de travail."
+     }
+    ]
+    }
