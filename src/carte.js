@@ -1,1 +1,0 @@
-// Pour la carte L'amour à travers le monde

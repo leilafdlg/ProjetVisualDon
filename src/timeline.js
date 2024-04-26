@@ -1,1 +1,0 @@
-// Pour afficher les données de la timeline

@@ -8,7 +8,13 @@
 body, html {
   width: 100%;
   height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Jost', sans-serif;
 }
+
 
 body {
   background-color: #FFA7A7; /* Fond rose */
@@ -96,3 +102,30 @@ body {
   width: 200px;
   height: 200px;
 } */
+
+
+.countdown-container {
+  position: relative;
+  font-size: 20px; /* Ajustez la taille de la police selon le besoin */
+}
+
+.coeur, .rectangle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px; /* Ajustez la taille selon le besoin */
+  height: auto;
+}
+
+.rectangle {
+  z-index: 1; /* Le rectangle doit être au-dessus du cœur pour la visibilité du texte */
+}
+
+.countdown {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Le texte doit être au-dessus de tous les SVG pour être lisible */
+}
