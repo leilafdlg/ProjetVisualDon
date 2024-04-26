@@ -4,40 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/style.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
-    <title>Visualisation de donnée: La Saint-valentin</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Miniver&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Miniver&display=swap" rel="stylesheet">
+    <title>indexJuliane : Visualisation de donnée: La Saint-valentin</title>
   </head>
   <body>
     <div class="container">
       <div class="blocHorizontal">
         <div class="slide one">
+
+          <!-- Ligne -->
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="100vw"
             height="100vh"
             viewBox="0 0 100 100"
+            style="border: 1px solid #64748b"
           >
-            <line
-              x1="0"
-              y1="90"
-              x2="1000"
-              y2="90"
-              style="stroke: #DF7272; stroke-width: 0.5"
-            />
+          <line
+          x1="0"
+          y1="90"
+          x2="1000"
+          y2="90"
+          style="stroke: #DF7272; stroke-width: 0.5"
+        />
           </svg>
-            <div class="countdown-container">
-              <!-- Incorporation du coeur SVG -->
-              <img src="00.Coeur_B.svg" alt="Coeur" class="coeur">
-              <div class="triangle-container">
-                <!-- Incorporation du triangle SVG -->
-                <img src="00.Rectangle.svg" alt="Rectangle" class="rectangle">
-                <div id="countdown" class="countdown"></div>
-              </div>
+          <div class="countdown-container">
+            <!-- Incorporation du coeur SVG -->
+            <img src="assets/HeartArrow/00.Coeur_B.svg" alt="Coeur" class="coeur">
+            <div class="triangle-container">
+              <!-- Incorporation du triangle SVG -->
+              <img src="assets/HeartArrow/00.Rectangle.svg" alt="Rectangle" class="rectangle">
+              <div id="countdown" class="countdown"></div>
             </div>
+          </div>
         </div>
-        <div class="slide two"></div>
-        <div class="slide three"></div>
-        <div class="slide four"></div>
       </div>
     </div>
     <script type="module" src="/src/index.js"></script>
