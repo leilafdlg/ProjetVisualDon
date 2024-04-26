@@ -2,10 +2,10 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
-body, html {
+/* body, html {
   width: 100%;
   height: 100%;
   margin: 0;
@@ -17,23 +17,36 @@ body, html {
 
 
 body {
-  background-color: #FFA7A7; /* Fond rose */
-  overflow-x: scroll; /* Active le défilement horizontal */
-  overflow-y: hidden; /* Désactive le défilement vertical */
-}
+  background-color: #FFA7A7; 
+  overflow-x: scroll;
+  overflow-y: hidden; 
+} */
 
 /* Styles pour les couleurs spécifiées, à utiliser comme classes */
-.color-5C98BA { background-color: #5C98BA; }
-.color-676091 { background-color: #676091; }
-.color-AB529D { background-color: #AB529D; }
-.color-FF4895 { background-color: #FF4895; }
-.color-E4004D { background-color: #E4004D; }
-.color-DF7272 { background-color: #DF7272; }
-.color-FFA7A7 { background-color: #FFA7A7; }
+.color-5C98BA {
+  background-color: #5c98ba;
+}
+.color-676091 {
+  background-color: #676091;
+}
+.color-AB529D {
+  background-color: #ab529d;
+}
+.color-FF4895 {
+  background-color: #ff4895;
+}
+.color-E4004D {
+  background-color: #e4004d;
+}
+.color-DF7272 {
+  background-color: #df7272;
+}
+.color-FFA7A7 {
+  background-color: #ffa7a7;
+}
 
 /* Exemple d'utilisation des couleurs sur les éléments de contenu */
 /*) .content-item:nth-child(1) { background-color: #5C98BA; }*/
-
 
 .horizontal-scroll-container {
   display: flex; /* Utilisation de Flexbox pour aligner horizontalement */
@@ -51,10 +64,12 @@ body {
   /* Ajouter des couleurs de fond différentes pour chaque élément si désiré */
 }
 
-
-.popup { display: none; }
-.icon:hover + .popup { display: block; }
-
+.popup {
+  display: none;
+}
+.icon:hover + .popup {
+  display: block;
+}
 
 .slide {
   width: 100vw;
@@ -76,15 +91,15 @@ body {
 }
 
 .two {
-  background-color: #5C98BA;
+  background-color: #5c98ba;
 }
 
 .three {
-  background-color: #676091
+  background-color: #676091;
 }
 
 .four {
-  background-color: #AB529D;
+  background-color: #ab529d;
 }
 /* .parent {
   display: flex;
@@ -103,13 +118,13 @@ body {
   height: 200px;
 } */
 
-
 .countdown-container {
   position: relative;
   font-size: 20px; /* Ajustez la taille de la police selon le besoin */
 }
 
-.coeur, .rectangle {
+.coeur,
+.rectangle {
   position: absolute;
   top: 50%;
   left: 50%;
