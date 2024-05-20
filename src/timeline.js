@@ -73,9 +73,6 @@ const afficheCenturies = () => {
     const color = "--" + obj.color;
     let textColor = style.getPropertyValue(color);
 
-    // switch (c.)
-    //choose the color, insert in the array the color of each century to know
-
     //adding a div for each element
     const centuryElementId = `century_${idx}`;
     const centuryDiv = blocHorizontal
@@ -126,7 +123,7 @@ const afficheCenturies = () => {
         Object.hasOwn(group, "image-static")
       ) {
         centuryElement.innerHTML += `
-          <div id="image_${idx}" class="images" width="700px">
+          <div id="image_${idx}" class="images">
           <img src="${group["image-static"]}"  width="auto" height="300">
           <p id="title" style="color:${textColor};">${group.title}</p>
           <p id="subtitle" style="color:${textColor};">${group.subtitle}</p>
@@ -155,20 +152,6 @@ const afficheCenturies = () => {
           group.title,
           group.source
         );
-        if (Object.hasOwn(group, "image-hover")) {
-          document
-            .querySelector(`#image_${idx} img`)
-            .addEventListener("mouseenter", () => {
-              document.querySelector(`#image_${idx} img`).src =
-                group["image-hover"];
-            });
-          document
-            .querySelector(`#image_${idx} img`)
-            .addEventListener("mouseleave", () => {
-              document.querySelector(`#image_${idx} img`).src =
-                group["image-static"];
-            });
-        }
       }
     });
 
@@ -212,8 +195,24 @@ const afficheFunfacts = () => {
     </div>
     `;
   });
-
   document.querySelector(".blocHorizontal").appendChild(funfactsDiv);
+
+  data.Facts.forEach((fact, id) => {
+    if (Object.hasOwn(fact, "image-hover")) {
+      document
+        .querySelector(`#funfact_${id} img`)
+        .addEventListener("mouseenter", () => {
+          document.querySelector(`#funfact_${id} img`).src =
+            fact["image-hover"];
+        });
+      document
+        .querySelector(`#funfact_${id} img`)
+        .addEventListener("mouseleave", () => {
+          document.querySelector(`#funfact_${id} img`).src =
+            fact["image-static"];
+        });
+    }
+  });
 };
 
 // ---------------------------------------------------

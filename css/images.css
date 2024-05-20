@@ -12,9 +12,6 @@
   text-align: center;
 }
 
-/* .images {
-  width: 700px;
-} */
 .images img {
   padding-top: 80px;
   padding-right: 80px;
@@ -22,9 +19,9 @@
   padding-bottom: 30px;
   transition: transform 0.3s ease;
   /* margin-top: 100px; */
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .images img:hover {
