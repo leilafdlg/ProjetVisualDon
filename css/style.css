@@ -1,3 +1,12 @@
+/* IMPORT ALL THE CSS */
+@import "variables.css";
+@import "structure.css";
+@import "century.css";
+@import "countdown.css";
+@import "images.css";
+@import "popup.css";
+@import "spotify.css";
+
 /* Reset de base pour les marges et le padding */
 * {
   margin: 0;
@@ -22,32 +31,6 @@ body {
   overflow-y: hidden; 
 } */
 
-/* Styles pour les couleurs spécifiées, à utiliser comme classes */
-.color-5C98BA {
-  background-color: #5c98ba;
-}
-.color-676091 {
-  background-color: #676091;
-}
-.color-AB529D {
-  background-color: #ab529d;
-}
-.color-FF4895 {
-  background-color: #ff4895;
-}
-.color-E4004D {
-  background-color: #e4004d;
-}
-.color-DF7272 {
-  background-color: #df7272;
-}
-.color-FFA7A7 {
-  background-color: #ffa7a7;
-}
-
-/* Exemple d'utilisation des couleurs sur les éléments de contenu */
-/*) .content-item:nth-child(1) { background-color: #5C98BA; }*/
-
 .horizontal-scroll-container {
   display: flex; /* Utilisation de Flexbox pour aligner horizontalement */
   height: 100%;
@@ -71,36 +54,6 @@ body {
   display: block;
 }
 
-.slide {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 100px;
-}
-
-.blocHorizontal {
-  display: flex;
-  flex-direction: row;
-  width: 400vw;
-}
-
-.one {
-  background-color: rgba(255, 242, 242, 1);
-}
-
-.two {
-  background-color: #5c98ba;
-}
-
-.three {
-  background-color: #676091;
-}
-
-.four {
-  background-color: #ab529d;
-}
 /* .parent {
   display: flex;
   flex-direction: row;
@@ -118,29 +71,173 @@ body {
   height: 200px;
 } */
 
-.countdown-container {
-  position: relative;
-  font-size: 20px; /* Ajustez la taille de la police selon le besoin */
-}
-
-.coeur,
-.rectangle {
+.tooltip {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 300px; /* Ajustez la taille selon le besoin */
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+  width: 120px;
   height: auto;
+  font-size: 15px;
+  font-family: "Jost";
+  color: white;
+  overflow-y: hidden;
 }
 
-.rectangle {
-  z-index: 1; /* Le rectangle doit être au-dessus du cœur pour la visibilité du texte */
+body {
+  font-family: "Jost", sans-serif;
+  font-size: 15px;
+  text-align: center;
+  cursor: default;
 }
 
-.countdown {
+#chart1 {
+  padding-top: 50px;
+  padding-right: 150px;
+}
+#chart2 {
+  padding-top: 50px;
+}
+
+#chart1,
+#chart2,
+#chart3,
+#chart4 {
+  overflow-y: hidden;
+}
+
+text {
+  /* fill: #262043; */
+  font-family: "Jost", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.legend {
+  font-family: "Jost", sans-serif;
+}
+
+.bar-men,
+.bar-women {
+  transition: all 0.3s ease-out;
+}
+
+.bar-men:hover,
+.bar-women:hover {
+  fill-opacity: 0.7;
+  cursor: pointer;
+}
+
+.text {
+  font-size: 12px;
+  fill: #262043;
+}
+
+.map {
+  fill: #ffbac9;
+}
+
+.mapTitle {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.hide {
+  background-color: #e4004cac;
+  border-radius: px;
   position: absolute;
-  top: 50%;
+  margin: 0 auto;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-family: Jost;
+  color: white;
+  width: 400px; /* Nouvelle largeur du popup */
+  height: auto;
+  display: none;
+}
+
+.italie-txt {
+  top: 30%;
   left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 2; /* Le texte doit être au-dessus de tous les SVG pour être lisible */
+  pointer-events: none;
+}
+
+.philippines-txt {
+  top: 40%;
+  left: 42%;
+  pointer-events: none;
+}
+
+.argentine-txt {
+  top: 38%;
+  left: 31%;
+  pointer-events: none;
+}
+
+.mexique-txt {
+  top: 45%;
+  left: 5%;
+  pointer-events: none;
+}
+
+.danemark-txt {
+  top: 32%;
+  left: 45%;
+  pointer-events: none;
+}
+
+.afriqueSud-txt {
+  top: 40%;
+  left: 30%;
+  pointer-events: none;
+}
+
+.inde-txt {
+  top: 46%;
+  left: 45%;
+  pointer-events: none;
+}
+
+.japon-txt {
+  top: 14%;
+  left: 50%;
+  pointer-events: none;
+}
+
+.suede-txt {
+  top: 28%;
+  left: 40%;
+  pointer-events: none;
+}
+
+.finlande-txt {
+  top: 25%;
+  left: 40%;
+  pointer-events: none;
+}
+
+.ethiopie-txt {
+  top: 28%;
+  left: 32%;
+  pointer-events: none;
+}
+
+.bresil-txt {
+  top: 40%;
+  left: 35%;
+  pointer-events: none;
+}
+
+.coreeSud-txt {
+  top: 10%;
+  left: 45%;
+  pointer-events: none;
+}
+
+.france-txt {
+  top: 20%;
+  left: 15%;
+  pointer-events: none;
 }

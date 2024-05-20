@@ -1,0 +1,73 @@
+{
+    "data_couple": {
+      "en_couple": {
+        "pourcentage": "77%",
+        "par_age": {
+          "18-24": {
+            "hommes": "38%",
+            "femmes": "56%"
+          },
+          "35-44": {
+            "femmes": "taux le plus bas de célibataires"
+          },
+          "plus_de_65": {
+            "hommes": "13-16%",
+            "femmes": "38%"
+          }
+        }
+      },
+      "mariage": {
+        "pourcentage_parents_marries": "79%",
+        "comparaison_europe": {
+          "France": "56.7%",
+          "Suede": "54.6%"
+        }
+      },
+      "divorce": {
+        "taux": "40%",
+        "comparaison_europe": {
+          "Italie": "27.3%",
+          "Portugal": "70.4%"
+        }
+      },
+      "repartenaire_apres_rupture": {
+        "femmes_55_80": "3%",
+        "hommes_55_80": "33%"
+      }
+    },
+    "data_rencontres": {
+      "sites_de_rencontres": {
+        "croissance_financiere": {
+          "2010": "30.4M CHF",
+          "2016": "40.8M CHF",
+          "augmentation": "34%"
+        }
+      },
+      "preferences_saint_valentin": {
+        "activite_preferee": "Activité plutôt qu'un dîner",
+        "ignorance_fete": "59%"
+      }
+    },
+    "data_sexe": {
+      "frequence_rapports_sexuels": {
+        "18-29_ans": "112 fois par an",
+        "30-39_ans": "86 fois par an",
+        "40-49_ans": "69 fois par an",
+        "moyenne": "1.4 fois par semaine"
+      },
+      "nombre_partenaires_sexuels": {
+        "femme_moyenne": "6",
+        "homme_moyen": "7",
+        "derniere_annee": {
+          "hommes": "2.1",
+          "femmes": "1.5"
+        }
+      },
+      "importance_du_sexe": {
+        "hommes": "84%",
+        "femmes": "68%",
+        "pic": "45-54 ans"
+      }
+    }
+  }
+  

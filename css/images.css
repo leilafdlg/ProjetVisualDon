@@ -1,0 +1,59 @@
+#title {
+  /* padding-top: 25px; */
+  font-size: 30px;
+  font-family: Jost;
+  font-weight: 700;
+  text-align: center;
+}
+#subtitle {
+  font-size: 25px;
+  font-family: Jost;
+  font-weight: 400;
+  text-align: center;
+}
+
+/* .images {
+  width: 700px;
+} */
+.images img {
+  padding-top: 80px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 30px;
+  transition: transform 0.3s ease;
+  /* margin-top: 100px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.images img:hover {
+  transform: scale(1.08);
+}
+
+/* ////////////////////////////////////////
+/////////////// Fun Facts ////////////////
+//////////////////////////////////////// */
+
+.funfacts {
+  display: flex;
+  overflow-y: hidden;
+}
+
+.funfact {
+  overflow-y: hidden;
+}
+
+.funfacts .funfact {
+  padding-top: 80px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 30px;
+  transition: transform 0.3s ease;
+  /* margin-top: 100px; */
+}
+
+.funfacts .funfact img:hover {
+  transform: scale(1.08);
+  /* opacity: 0; */
+}

@@ -1,0 +1,23 @@
+{
+    "data_sexe": {
+    "frequence_rapports_sexuels": {
+      "18-29_ans": "112 fois par an",
+      "30-39_ans": "86 fois par an",
+      "40-49_ans": "69 fois par an",
+      "moyenne": "1.4 fois par semaine"
+    },
+    "nombre_partenaires_sexuels": {
+      "femme_moyenne": "6",
+      "homme_moyen": "7",
+      "derniere_annee": {
+        "hommes": "2.1",
+        "femmes": "1.5"
+      }
+    },
+    "importance_du_sexe": {
+      "hommes": "84%",
+      "femmes": "68%",
+      "pic": "45-54 ans"
+    }
+  }
+}

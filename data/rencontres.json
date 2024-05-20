@@ -1,0 +1,15 @@
+{
+    "data_rencontres": {
+    "sites_de_rencontres": {
+      "croissance_financiere": {
+        "2010": "30.4M CHF",
+        "2016": "40.8M CHF",
+        "augmentation": "34%"
+      }
+    },
+    "preferences_saint_valentin": {
+      "activite_preferee": "Activité plutôt qu'un dîner",
+      "ignorance_fete": "59%"
+    }
+  }
+}

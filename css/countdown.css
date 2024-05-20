@@ -1,0 +1,81 @@
+/* Styles pour les éléments spécifiques */
+.smallHeart1,
+.smallHeart2 {
+  flex-shrink: 0;
+}
+
+.smallHeart1 {
+  width: 150px;
+  height: 200px;
+  transform: rotate(-21.9deg);
+  background: url(../assets/HeartArrow/00.Coeur_A.svg) no-repeat;
+  transform: translateY(60%); /* Pour centrer horizontalement */
+}
+
+.bigHeart1 {
+  width: 975px;
+  height: 891px;
+  flex-shrink: 0;
+  transform: scale(0.85);
+  background: url(../assets/HeartArrow/00.Coeur_B.svg) no-repeat;
+  position: relative; /* Ajouté pour permettre le positionnement absolu du texte */
+  display: flex; /* Utilisé pour centrer le rectangle */
+  justify-content: center;
+  align-items: center;
+}
+
+.smallHeart2 {
+  width: 280px;
+  height: 280px;
+  transform: rotate(20deg);
+  background: url(/assets/HeartArrow/00.Coeur_C.svg) no-repeat;
+  transform: translateY(70%);
+}
+
+.rectangle {
+  width: 500px;
+  height: 90px;
+  border-radius: 30px;
+  background: #fff;
+  z-index: 1; /* Le rectangle doit être au-dessus du cœur pour la visibilité du texte */
+}
+
+.titleHeart {
+  color: #e4004d;
+  font-family: "Miniver", sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.countdown-text {
+  color: #e4004d;
+  font-family: "Jost", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute; /* Positionnement absolu pour le placer par-dessus le rectangle */
+  top: 50%; /* Centré verticalement */
+  left: 50%; /* Centré horizontalement */
+  transform: translate(-50%, -50%); /* Ajustement pour centrer parfaitement */
+  z-index: 2; /* Le texte doit être au-dessus de tous les SVG pour être lisible */
+}
+
+.countdown-container {
+  position: relative;
+}
+
+.countdown {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Le texte doit être au-dessus de tous les SVG pour être lisible */
+}

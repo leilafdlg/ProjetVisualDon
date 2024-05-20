@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  /* box-sizing: border-box; */
+}
+/* see if it actually does anything to disable vertical scrolling 
+--> sometimes works sometimes doesn't
+body,
+.blocHorizontal,
+.container
+ {
+  overflow-x: auto;
+  overflow-y: hidden;
+} */
+.container {
+  overflow-y: hidden;
+}
+
+#timeline {
+  position: fixed;
+  top: 80%;
+  left: 0;
+  right: 0;
+  margin: 0;
+  /* transform: translateY(-50%); */
+  border: 3px solid #e4004d;
+  /* z-index: 1; */
+}
+
+.heart-arrow {
+  position: sticky;
+  width: 430px;
+  margin-top: 572px;
+  left: 500px;
+  /* z-index: 2; */
+}
+
+.blocHorizontal {
+  background-color: #fff2f2;
+  display: flex;
+  flex-direction: row;
+  width: max-content; /*max-content;change this if you want to scroll infinitely like at 1000vw */
+}
+
+.one {
+  background-color: rgba(255, 242, 242, 1);
+}
+
+.two {
+  background-color: #fff2f2;
+}
+
+.three {
+  background-color: #676091;
+}
+
+.four {
+  background-color: #ab529d;
+}
+
+.slide {
+  width: max-content;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  overflow-y: hidden;
+}
+
+.stat {
+  width: max-content;
+  height: 100vh;
+  display: flex;
+  font-size: 100px;
+}
+
+.mapDiv {
+  width: max-content;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-right: 180px;
+  overflow-y: hidden;
+}

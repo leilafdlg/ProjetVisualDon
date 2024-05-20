@@ -1,0 +1,28 @@
+/*TESTS*/
+.century {
+  width: max-content; /*changer en max-content*/
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  overflow-y: hidden;
+  /* justify-content: center;
+    align-items: center; */
+
+  /* z-index: 1; */
+}
+#marker {
+  /* z-index: 2; */
+}
+.marker-text {
+  /* fill: #ab529d; DELETE*/
+  font-size: 25px;
+  font-family: Miniver;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.marker-line {
+  /* stroke: #ab529d; DELETE*/
+  stroke-width: 3px;
+  stroke-linecap: round;
+}
+/*-------------------------------------------------------------*/

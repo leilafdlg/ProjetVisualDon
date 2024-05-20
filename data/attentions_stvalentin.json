@@ -1,0 +1,37 @@
+[
+    {
+     "Objectif": "Démontrer que tu l'aimes",
+     "Homme": 0.29,
+     "Femme": 0.51
+    },
+    {
+     "Objectif": "Faire l'amour",
+     "Homme": 0.25,
+     "Femme": 0.08
+    },
+    {
+     "Objectif": "Sortir dîner en tête à tête",
+     "Homme": 0.18,
+     "Femme": 0.06
+    },
+    {
+     "Objectif": "Impressionner l'autre",
+     "Homme": 0.14,
+     "Femme": 0.03
+    },
+    {
+     "Objectif": "Recevoir des cadeaux",
+     "Homme": 0.07,
+     "Femme": 0.06
+    },
+    {
+     "Objectif": "Se faire plaisir",
+     "Homme": 0.04,
+     "Femme": 0.14
+    },
+    {
+     "Objectif": "Offrir un cadeau",
+     "Homme": 0.03,
+     "Femme": 0.12
+    }
+   ]

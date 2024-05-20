@@ -1,0 +1,152 @@
+[
+    {
+      "Annee": 2010,
+      "Bonbon": "$8.60",
+      "Fleurs": "$12.33",
+      "Bijoux": "$21.52",
+      "Carte de vœux": "$5.91",
+      "Une soirée ensemble": "$23.76",
+      "Vêtements": "$10.93",
+      "Carte cadeaux": "$8.42"
+    },
+    {
+      "Annee": 2011,
+      "Bonbon": "$10.75",
+      "Fleurs": "$12.62",
+      "Bijoux": "$26.18",
+      "Carte de vœux": "$8.09",
+      "Une soirée ensemble": "$24.86",
+      "Vêtements": "$12.00",
+      "Carte cadeaux": "$11.21"
+    },
+    {
+      "Annee": 2012,
+      "Bonbon": "$10.85",
+      "Fleurs": "$13.49",
+      "Bijoux": "$29.60",
+      "Carte de vœux": "$6.93",
+      "Une soirée ensemble": "$25.66",
+      "Vêtements": "$10.42",
+      "Carte cadeaux": "$8.43"
+    },
+    {
+      "Annee": 2013,
+      "Bonbon": "$11.64",
+      "Fleurs": "$13.48",
+      "Bijoux": "$30.94",
+      "Carte de vœux": "$8.32",
+      "Une soirée ensemble": "$27.93",
+      "Vêtements": "$11.46",
+      "Carte cadeaux": "$10.23"
+    },
+    {
+      "Annee": 2014,
+      "Bonbon": "$10.80",
+      "Fleurs": "$15.00",
+      "Bijoux": "$30.58",
+      "Carte de vœux": "$7.97",
+      "Une soirée ensemble": "$27.48",
+      "Vêtements": "$13.37",
+      "Carte cadeaux": "$9.00"
+    },
+    {
+      "Annee": 2015,
+      "Bonbon": "$12.70",
+      "Fleurs": "$15.72",
+      "Bijoux": "$36.30",
+      "Carte de vœux": "$7.87",
+      "Une soirée ensemble": "$27.27",
+      "Vêtements": "$14.72",
+      "Carte cadeaux": "$11.05"
+    },
+    {
+      "Annee": 2016,
+      "Bonbon": "$13.11",
+      "Fleurs": "$14.78",
+      "Bijoux": "$33.11",
+      "Carte de vœux": "$8.52",
+      "Une soirée ensemble": "$33.46",
+      "Vêtements": "$15.05",
+      "Carte cadeaux": "$12.52"
+    },
+    {
+      "Annee": 2017,
+      "Bonbon": "$12.68",
+      "Fleurs": "$14.63",
+      "Bijoux": "$32.32",
+      "Carte de vœux": "$7.36",
+      "Une soirée ensemble": "$28.46",
+      "Vêtements": "$13.91",
+      "Carte cadeaux": "$10.23"
+    },
+    {
+      "Annee": 2018,
+      "Bonbon": "$13.12",
+      "Fleurs": "$14.75",
+      "Bijoux": "$34.10",
+      "Carte de vœux": "$6.55",
+      "Une soirée ensemble": "$26.96",
+      "Vêtements": "$14.04",
+      "Carte cadeaux": "$11.04"
+    },
+    {
+      "Annee": 2019,
+      "Bonbon": "$14.12",
+      "Fleurs": "$15.07",
+      "Bijoux": "$30.34",
+      "Carte de vœux": "$7.31",
+      "Une soirée ensemble": "$27.72",
+      "Vêtements": "$16.08",
+      "Carte cadeaux": "$10.31"
+    },
+    {
+      "Annee": 2020,
+      "Bonbon": "$17.30",
+      "Fleurs": "$16.49",
+      "Bijoux": "$41.65",
+      "Carte de vœux": "$9.01",
+      "Une soirée ensemble": "$30.78",
+      "Vêtements": "$20.67",
+      "Carte cadeaux": "$14.21"
+    },
+    {
+      "Annee": 2021,
+      "Bonbon": "$15.32",
+      "Fleurs": "$15.42",
+      "Bijoux": "$30.71",
+      "Carte de vœux": "$8.48",
+      "Une soirée ensemble": "$21.39",
+      "Vêtements": "$20.05",
+      "Carte cadeaux": "$15.67"
+    },
+    {
+      "Annee": 2022,
+      "Bonbon": "$15.90",
+      "Fleurs": "$16.71",
+      "Bijoux": "$50",
+      "Carte de vœux": "$7.47",
+      "Une soirée ensemble": "$31.35",
+      "Vêtements": "$21.46",
+      "Carte cadeaux": "$17.22"
+    },
+  {
+    "Annee": 2023,
+    "Bonbon": "$14",
+    "Fleurs": "$10",
+    "Bijoux": "$70",
+    "Carte de vœux": "$7",
+    "Une soirée ensemble": "$33",
+    "Vêtements": "$27",
+    "Carte cadeaux": "$14"
+  },
+  {
+    "Annee": 2024,
+    "Bonbon": "$12",
+    "Fleurs": "$29",
+    "Bijoux": "$76",
+    "Carte de vœux": "$8",
+    "Une soirée ensemble": "$74",
+    "Vêtements": "$45",
+    "Carte cadeaux": "$28"
+  }
+  ]
