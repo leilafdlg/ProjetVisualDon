@@ -136,6 +136,20 @@ function drawChart(data) {
       .style("font-family", "'Jost', sans-serif")
       .style("fill", "#e4004d")
       .text("Les estimations de dépenses cadeaux par personne (aux USA)");
+
+    //sous-titre
+    svg
+      .append("text")
+      .attr("x", width / 2)
+      .attr("y", -30)
+      .attr("id", "subtitle")
+      .attr("text-anchor", "middle")
+      .style("font-size", "12px")
+      .style("font-family", "'Jost', sans-serif")
+      .style("fill", "#e4004d")
+      .text(
+        "Traduit de https://www.kaggle.com/code/infinator/happy-valentines-day"
+      );
   });
 
   // Axes

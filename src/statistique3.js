@@ -43,6 +43,13 @@ export function displayStatistics3() {
     .attr("dy", "1.2em")
     .text(
       "entre 2010 et 2024, passant de 30,4 millions à 41 millions de francs suisses."
+    )
+    .append("tspan")
+    .attr("x", width / 2)
+    .attr("dy", "1.8em")
+    .style("font-size", "12px")
+    .text(
+      "source : https://largeur.com/?p=8723https://www.tdg.ch/les-suisses-raffolent-des-sites-de-rencontre-590617588139"
     );
 
   const colors = {

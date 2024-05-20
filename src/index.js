@@ -24,6 +24,7 @@ afficheFunfacts();
 
 insertBaseStatHTML();
 displayStatistics1();
+
 displayStatistics2();
 displayStatistics3();
 displayStatistics4();

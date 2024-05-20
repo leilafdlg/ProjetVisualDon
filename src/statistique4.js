@@ -111,5 +111,12 @@ export function displayStatistics4() {
     .append("tspan")
     .attr("x", width / 2)
     .attr("dy", "1.2em")
-    .text("de la Saint-Valentin. Car, l’amour, c’est toute l’année.");
+    .text("de la Saint-Valentin. Car, l’amour, c’est toute l’année.")
+    .append("tspan")
+    .attr("x", width / 2)
+    .attr("dy", "1.8em")
+    .style("font-size", "12px")
+    .text(
+      "source : https://www.24heures.ch/sondage-la-saint-valentin-divise-les-curs-887773248612"
+    );
 }
