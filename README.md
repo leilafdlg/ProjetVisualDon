@@ -26,7 +26,7 @@ Afin de pouvoir utiliser en local notre projet, il vous suffit de :
 4. > npm run build
 
 ### Site sur netlify
-Vous pouvez sans autre visualisez notre projet sur l'url suivante : 
+Vous pouvez sans autre visualisez notre projet sur l'url suivante : https://stvalentin.netlify.app
 
 
 
