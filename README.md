@@ -17,3 +17,21 @@ Nous souhaitons présenter la fête et son histoire. Et tout du long, découvrir
 
 #### Références
 Nous retrouvons sur internet, des blogs recessant des chiffres à ce sujet, ou encore des infographies. Des sites de recensement de données en partage également. Tous dans le but d’informer. 
+
+#### Installation
+Afin de pouvoir utiliser en local notre projet, il vous suffit de :
+1. téléhcarger le projet
+2. ouvrir votre terminal
+3. > npm install
+   > npm run dev
+
+### Site sur netlify
+Vous pouvez sans autre visualisez notre projet sur l'url suivante : 
+
+
+
+
+
+
+
+
