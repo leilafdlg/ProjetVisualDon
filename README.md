@@ -20,8 +20,8 @@ Nous retrouvons sur internet, des blogs recessant des chiffres à ce sujet, ou e
 
 #### Installation
 Afin de pouvoir utiliser en local notre projet, il vous suffit de :
-1. téléhcarger le projet
-2. ouvrir votre terminal
+1. télécharger le projet
+2. ouvrir terminal
 3. > npm install
 4. > npm run build
 
