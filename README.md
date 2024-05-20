@@ -23,7 +23,7 @@ Afin de pouvoir utiliser en local notre projet, il vous suffit de :
 1. téléhcarger le projet
 2. ouvrir votre terminal
 3. > npm install
-   > npm run dev
+4. > npm run dev
 
 ### Site sur netlify
 Vous pouvez sans autre visualisez notre projet sur l'url suivante : 
