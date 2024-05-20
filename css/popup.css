@@ -19,6 +19,7 @@
   border-radius: 5px;
   text-align: left;
   z-index: 1;
+  background-color: rgb(145, 145, 145);
 }
 
 .popup-content #title {
